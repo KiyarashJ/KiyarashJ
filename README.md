@@ -43,6 +43,14 @@ ___
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
   
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
+  
+  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
+  
+  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"/>
+  
+  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
+  
+  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
 </div>
 
 
@@ -53,13 +61,7 @@ ___
 # The Skills which i'm gonna learn (in sequence): 
 
 <div style="display: flex;">
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
   
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"/>
-  
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
-  
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
 </div>
 
 <h1>Development Environment : </h1>
