@@ -61,6 +61,12 @@ ___
 # The Skills which i'm gonna learn (in sequence): 
 
 <div style="display: flex;">
+
+ <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bun-Dark.svg"/>
+ 
+ <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/>
+ 
+ <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"/>
   
 </div>
 
