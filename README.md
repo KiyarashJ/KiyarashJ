@@ -8,9 +8,9 @@
 const Biography = {
 name : "Kiyarash",
 LastName : "Jenani",
-Skills : ["HTML","Css","JavaScript"],
+Skills : ["HTML","Css","JavaScript" , "ReactJS" , "express js" , "MongoDb" , "NodeJS" , "NextJs"],
 isLearning : true,
-SkillsWhichIsLearning : ["ReactJS" , "express js" , "MongoDb" , "NodeJS"],
+SkillsWhichIsLearning : ["Hono js" , "Bun js" , "NestJs" , "Typescript"],
  // we are learning step by step not all in One !!!
 }
 
