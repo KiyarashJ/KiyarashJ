@@ -51,6 +51,14 @@ ___
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
   
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
+   
+  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bun-Dark.svg"/>
+ 
+  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/>
+ 
+  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"/>
+
+  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/>
 </div>
 
 
@@ -62,11 +70,19 @@ ___
 
 <div style="display: flex;">
 
- <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bun-Dark.svg"/>
- 
- <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/>
- 
- <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"/>
+<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
+
+<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg"/>
+
+<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
+
+<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"/>
+
+<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg"/>
+
+<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg"/>
+
+<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg"/>
   
 </div>
 
