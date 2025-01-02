@@ -54,7 +54,7 @@ ___
    
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bun-Dark.svg"/>
  
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/>
+  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
  
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"/>
 
@@ -73,8 +73,6 @@ ___
 <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
 
 <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg"/>
-
-<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
 
 <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"/>
 
