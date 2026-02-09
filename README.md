@@ -8,10 +8,8 @@
 const Biography = {
 name : "Kiyarash",
 LastName : "Jenani",
-Skills : ["HTML","Css","JavaScript" , "ReactJS" , "express js" , "MongoDb" , "NodeJS" , "NextJs" , "Postgresql" , "sequelize" , "mongoose" , "Hono js" , "Bun js" , "NestJs" , "Typescript"],
+Skills : ["HTML","Css","JavaScript" , "ReactJS" , "express js" , "MongoDb" , "NodeJS" , "NextJs" , "Postgresql" , "sequelize" , "mongoose" , "Hono js" , "Bun js" , "NestJs" , "Typescript", "Rust", "actix-web", "dioxus"],
 isLearning : true,
-SkillsWhichIsLearning : [ "Docker" , "graphql" , "threeJs" , "webpack" , "leafletJs"],
- // we are learning step by step not all in One !!!
 }
 
 Console.log("%c Biography as follows : " , "color : cyan" , Biography) 
