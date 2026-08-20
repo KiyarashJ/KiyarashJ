@@ -4,15 +4,15 @@
 
 <br /><br />
 
-```javascript
-const Biography = {
+```Rust
+let Biography = Biography_user {
 name : "Kiyarash",
 LastName : "Jenani",
-Skills : ["HTML","Css","JavaScript" , "ReactJS" , "express js" , "MongoDb" , "NodeJS" , "NextJs" , "Postgresql" , "sequelize" , "mongoose" , "Hono js" , "Bun js" , "NestJs" , "Typescript", "Rust", "actix-web", "dioxus"],
+Skills : ["Rust", "actix-web", "dioxus"],
 isLearning : true,
 }
 
-Console.log("%c Biography as follows : " , "color : cyan" , Biography) 
+println!("Biography as follows : {:?}", Biography) 
 ```
 ___
 <br />
@@ -28,7 +28,7 @@ ___
 -🌐 &nbsp;
 <br />
 <div style="display : flex">
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
+  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg"/>
   
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
   
