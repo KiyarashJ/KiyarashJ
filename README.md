@@ -23,7 +23,7 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 ![Stats](https://github-readme-stats.vercel.app/api?username=KiyarashJ&show_icons=true&theme=dark)
 
-# All-Skills : 
+# Hard-Skills : 
 
 -🌐 &nbsp;
 <br />
@@ -36,31 +36,11 @@ ___
   
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
   
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
-  
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
   
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
   
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
-  
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"/>
-  
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
-  
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
-   
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bun-Dark.svg"/>
- 
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
- 
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"/>
-
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/>
-  
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"/>
-
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg"/>
   
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
 </div>
@@ -70,17 +50,11 @@ ___
 
 
 
-# The Skills which i'm gonna learn (in sequence): 
+# The Skills in learning process: 
 
 <div style="display: flex;">
 
-<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
-
-<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg"/>
-
-<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg"/>
-
-<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg"/>
+<img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"/>
   
 </div>
 
@@ -94,23 +68,9 @@ ___
 
 
 
-# The other skills : 
-<div style=""display: flex>
-
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg"/>
-  
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg"/>
-
-</div>
-
-
-
-
 # Social Media : 
 
 <div style=""display: flex>
-
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
   
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg"/>
 
