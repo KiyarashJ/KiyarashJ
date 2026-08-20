@@ -8,7 +8,7 @@
 let Biography = Biography_user {
 name : "Kiyarash",
 last_name : "Jenani",
-skills : ["Rust", "actix-web", "dioxus"],
+skills : ["Rust", "actix-web", "dioxus", "Javascript"],
 is_learning : true,
 }
 
