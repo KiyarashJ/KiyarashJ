@@ -19,9 +19,9 @@ ___
 <h1> Activity : </h1>
 <br /><br />
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=anuraghazra&repo=anuraghazra%2Fgithub-readme-stats&show_owner=true&theme=solarized-dark)]([https://github.com/KiyarashJ/](https://github.com/KiyarashJ/DICOM-RENDER))
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KiyarashJ&repo=anuraghazra%2Fgithub-readme-stats&show_owner=true&theme=solarized-dark)]([https://github.com/KiyarashJ/](https://github.com/KiyarashJ/DICOM-RENDER))
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=2&theme=solarized-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=2&theme=solarized-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KiyarashJ&layout=compact&langs_count=2&theme=solarized-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=2&theme=solarized-dark)
 
 # Hard-Skills : 
 
