@@ -7,9 +7,9 @@
 ```Rust
 let Biography = Biography_user {
 name : "Kiyarash",
-LastName : "Jenani",
-Skills : ["Rust", "actix-web", "dioxus"],
-isLearning : true,
+last_name : "Jenani",
+skills : ["Rust", "actix-web", "dioxus"],
+is_learning : true,
 }
 
 println!("Biography as follows : {:?}", Biography) 
