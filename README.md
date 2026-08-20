@@ -30,7 +30,7 @@ ___
 <div style="display : flex">
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg"/>
   
-  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
+  <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Actix-Dark.svg"/>
   
   <img style="width : 48px; height: 48px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>
   
