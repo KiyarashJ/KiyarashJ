@@ -10,9 +10,9 @@ name : "Kiyarash",
 last_name : "Jenani",
 skills : ["Rust", "actix-web", "dioxus", "Javascript"],
 is_learning : true,
-}
+};
 
-println!("Biography as follows : {:?}", Biography) 
+println!("Biography as follows : {:?}", Biography);
 ```
 ___
 <br />
